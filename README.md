@@ -8,16 +8,16 @@
 ``` python3 dna_bin.py [option (type of translation/type of data)] [string]/[file] ```
 
 translate binary to dna in direct string <br>
-``` python3 -ds [string] ```
+``` python3 dna_bin.py -ds [string] ```
 
 translate dna to binary in direct string <br>
-``` python3 -bs [string] ```
+``` python3 dna_bin.py -bs [string] ```
 
 translate binary to dna in file <br>
-``` python3 -df [file] ```
+``` python3 dna_bin.py -df [file] ```
 
 translate dna to binary in file <br>
-``` python3 -bf [file] ```
+``` python3 dna_bin.py -bf [file] ```
 
 #### Optional Arguments <br>
 
