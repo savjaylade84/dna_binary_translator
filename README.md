@@ -2,7 +2,7 @@
 
 #### tools that translate binary to dna or vice versa in direct or in file <br>
 
-#### Note: i use 4 bits as representation each letters in dna. <br>
+#### Note: i use 4 bits as representation for each letters in dna. <br>
 
 #### How to Use It <br>
 ``` python3 dna_bin.py [option (type of translation/type of data)] [string]/[file] ```
