@@ -1,4 +1,4 @@
-## Bin to DNA or Vice Versa <br>
+## Binary to DNA or Vice Versa <br>
 
 #### tools that translate binary to dna or vice versa in direct or in file <br>
 
