@@ -4,7 +4,7 @@
 
 #### Note: i use 4 bits as representation for each letters in dna. <br>
 
-#### Package Userd
+#### Package Used
 - argparse
 
 #### How to Use It <br>
