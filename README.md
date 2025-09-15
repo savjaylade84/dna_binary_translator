@@ -4,6 +4,9 @@
 
 #### Note: i use 4 bits as representation for each letters in dna. <br>
 
+#### Package Userd
+- argparse
+
 #### How to Use It <br>
 ``` python3 dna_bin.py [option (type of translation/type of data)] [string]/[file] ```
 
