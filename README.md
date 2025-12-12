@@ -29,3 +29,10 @@ translate dna to binary in file <br>
 ```-f```,```--file```         file that contain binary/dna <br>
 ```-d```,```--dna```          translate binary to dna <br>
 ```-b```,```--binary```       translate dna to binary <br>
+
+#### Contact Information <br>
+
+Author: `John Jayson B. De Leon`</br>
+Email: `deleonjohnjayson@gmail.com` | `deleonjohnjayson@proton.me` </br>
+Github: `savjaylade84`</br>
+Portolio: [Jisun](https://savjalade84.pythonanywhere.com/)
